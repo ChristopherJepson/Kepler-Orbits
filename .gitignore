@@ -29,3 +29,10 @@ Content/Marketplace/
 # OS generated files
 .DS_Store
 Thumbs.db
+
+# Ignore Epic's heavy starter assets
+Content/StarterContent/
+
+# Ignore IDE-specific plugins
+Plugins/VisualStudioTools/
+Plugins/
