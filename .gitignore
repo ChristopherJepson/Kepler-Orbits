@@ -1,0 +1,31 @@
+# Unreal Engine Folders to Ignore
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vscode/
+.vs/
+FileOpenOrder/
+
+# User-specific files
+*.sln
+*.suo
+*.user
+*.userosscache
+*.sln.docuser.tar.gz
+
+# Specialized ignore for Marketplace/Third-Party Content
+# This keeps your custom folders but blocks common marketplace paths
+# Adjust "Marketplace" if your folder name is different
+Content/Marketplace/
+
+# Compiled C++ files
+*.pdb
+*.obj
+*.exe
+*.dll
+
+# OS generated files
+.DS_Store
+Thumbs.db
