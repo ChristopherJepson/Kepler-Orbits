@@ -13,6 +13,12 @@ While my previous work (such as *Void Command* and *Star-Survivor*) demonstrated
 
 ---
 
+<div align="center">
+  <img src="https://i.ibb.co/8L6kfPHH/Kepler-Orbits-0-0-6-Screen-Shot.png" width="100%" height="auto" alt="Kepler Orbits 0 0 6 Screen Shot" border="0">
+</div>
+
+---
+
 ## 🛠 Technical Challenges & Solutions
 
 ### 1. The Perpendicular Velocity Problem
