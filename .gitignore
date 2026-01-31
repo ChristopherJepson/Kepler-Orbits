@@ -36,3 +36,7 @@ Content/StarterContent/
 # Ignore IDE-specific plugins
 Plugins/VisualStudioTools/
 Plugins/
+
+# Ignore External Actor and Object data
+__ExternalActors__/
+__ExternalObjects__/
