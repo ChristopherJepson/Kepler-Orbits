@@ -3,7 +3,7 @@
 **Kepler-Orbits** is a high-fidelity Newtonian physics simulation built from the ground up in **Unreal Engine 5** using **C++**. Moving beyond standard engine-physics components, this project implements a custom gravitational system where multiple celestial bodies interact dynamically in a true N-body environment.
 
 ## 🚀 Project Overview
-While my previous work (such as *Void Command* and *Star-Survivor*) demonstrated my ability to ship gameplay in Unity, **Kepler-Orbits** represents a deep dive into the underlying mathematical and architectural systems of Unreal Engine. 
+While previous work (such as *Space-Survivor*) focused on shipping gameplay with integrated CI/CD pipeline tooling in Unity, **Kepler-Orbits** represents a deliberate shift into UE5 C++ systems engineering — building custom engine components from scratch rather than consuming existing ones. 
 
 ### Key Features:
 * **Custom C++ Physics:** A specialized `UOrbitalMovementComponent` that handles velocity, acceleration, and position updates manually in the `Tick` loop.
@@ -32,7 +32,7 @@ While my previous work (such as *Void Command* and *Star-Survivor*) demonstrated
 
 ### 3. Repository Hygiene for Professional Environments
 **Challenge:** Unreal projects generate gigabytes of temporary data that clutter version control.
-**Solution:** I configured a strict `.gitignore` to exclude engine-generated binaries, intermediate folders, and proprietary marketplace content. This ensures the repository remains focused on the original source code and custom architectural logic.
+**Solution:** I configured a strict `.gitignore` to exclude engine-generated binaries, intermediate folders, and proprietary marketplace content. This ensures the repository remains focused on the original source code and custom architectural logic — a foundational requirement for reliable CI/CD pipeline operation on UE5 projects, where unmanaged binary artifacts can corrupt build reproducibility.
 
 ---
 
@@ -50,4 +50,16 @@ The current system operates on an $O(n^2)$ complexity, where every planet checks
 ---
 
 ## 📝 About the Author
-I am an IT student and developer focused on technical art and systems engineering. I am passionate about bridging the gap between complex mathematical simulations and high-end visual fidelity in Unreal Engine 5.
+
+**Christopher Jepson**  
+*Pipeline Engineer*
+
+Systems-focused engineer working at the intersection of game engine 
+architecture and build pipeline automation. Kepler-Orbits represents 
+the C++ and UE5 systems engineering layer of a broader portfolio spanning 
+Unity CI/CD pipelines, UE5 editor tooling, and AI-integrated development 
+workflows.
+
+[LinkedIn](https://www.linkedin.com/in/christopher-jepson-310a84308) | 
+[Email](mailto:christopher.j.jepson@gmail.com) | 
+[GitHub](https://github.com/ChristopherJepson)
