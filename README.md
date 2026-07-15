@@ -52,7 +52,7 @@ The current system operates on an $O(n^2)$ complexity, where every planet checks
 ## 📝 About the Author
 
 **Christopher Jepson**  
-*Pipeline Engineer*
+*Build & Tools Engineer*
 
 Systems-focused engineer working at the intersection of game engine 
 architecture and build pipeline automation. Kepler-Orbits represents 
