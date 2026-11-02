@@ -14,7 +14,7 @@ While previous work (such as *Space-Survivor*) focused on shipping gameplay with
 ---
 
 <div align="center">
-  <img src="https://i.ibb.co/8L6kfPHH/Kepler-Orbits-0-0-6-Screen-Shot.png" width="100%" height="auto" alt="Kepler Orbits 0 0 6 Screen Shot" border="0">
+  <img src="https://i.ibb.co/8L6kfPHH/Kepler-Orbits-0-0-6-Screen-Shot.png" alt="Kepler Orbits 0 0 6 Screen Shot" border="0">
 </div>
 
 ---
